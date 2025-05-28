@@ -4,23 +4,27 @@ This is a responsive personal portfolio page created as part of **Assignment 1**
 
 ## 🚀 Features
 
-- **Responsive Design** using media queries
-- **Modern Layout** with Flexbox
-- **Google Fonts Integration** (Poppins)
-- **Custom Styling** with CSS variables
-- **Embedded YouTube Inspiration Video**
-- **Call-to-Action Buttons** with hover effects
-- **Target Section** for skills like HTML, CSS, and Tailwind
-- Clean, organized code structure with semantic HTML5 elements
-
+- **Responsive Design** using media queries  
+- **Modern Layout** with Flexbox  
+- **Google Fonts Integration** (Poppins)  
+- **Custom Styling** with CSS variables  
+- **Embedded YouTube Inspiration Video**  
+- **Call-to-Action Buttons** with hover effects  
+- **Target Section** for skills like HTML, CSS, and Tailwind  
+- Clean, organized code structure with semantic HTML5 elements  
 
 ## 🔧 Technologies Used
 
-- HTML5
-- CSS3
-- Google Fonts (Poppins)
-- YouTube Embed
-- Media Queries for responsiveness
+- HTML5  
+- CSS3  
+- Google Fonts (Poppins)  
+- YouTube Embed  
+- Media Queries for responsiveness  
+
+## 🔗 Live Demo
+
+Check out the live version here:  
+👉 [bootcamp-assignment-1-alpha.vercel.app](https://bootcamp-assignment-1-alpha.vercel.app/)
 
 ## 🙋‍♂️ Author
 

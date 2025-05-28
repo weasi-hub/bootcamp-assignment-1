@@ -341,7 +341,7 @@ iframe {
   }
 
   .heading_container {
-    max-width: 440px;
+    padding: 0 1rem;
   }
 
   /* Target styles  */
